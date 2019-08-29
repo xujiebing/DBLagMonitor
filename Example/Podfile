@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DBLagMonitor_Example' do
+  pod 'DBLagMonitor', :path => '../'
+
+  target 'DBLagMonitor_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
