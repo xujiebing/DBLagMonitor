@@ -1,0 +1,6 @@
+framework module Pods_DBLagMonitor_Tests {
+  umbrella header "Pods-DBLagMonitor_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

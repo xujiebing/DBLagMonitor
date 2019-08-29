@@ -1,0 +1,22 @@
+{
+  "name": "DBLagMonitor",
+  "version": "0.1.0",
+  "summary": "A short description of DBLagMonitor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xujiebing/DBLagMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xujiebing": "xujiebing@bwton.com"
+  },
+  "source": {
+    "git": "https://github.com/xujiebing/DBLagMonitor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBLagMonitor/Classes/**/*"
+}
